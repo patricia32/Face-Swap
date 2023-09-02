@@ -1,12 +1,12 @@
 # Face-Swap
 
-This a simple Neural Network and Image Processing project for face swapping. I used a trained network that estimates the necessary parameters for the exchange and Jupiter to develop it. The library for the neural network is 'dlib' and I used it for face detecting and shape prediction.  
+This a simple Neural Network and Image Processing project for face swapping. I used a trained network that estimates the necessary parameters for the exchange and Jupiter to develop it. The library for the neural network is 'dlib' and I used it for face detection and shape prediction.  
 
 The implementation is simple and intuitive:
-  - images reading
+  - image reading
   - convert the images to grayscale
   - creating two empty masks
-  - Steps for the first image
+  - Processing the first image
       - face detection and shape prediction
       - detect the face from the first image
       - facial references points are extracted

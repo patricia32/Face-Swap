@@ -1,0 +1,11 @@
+jupyter 
+
+matplotlib 
+
+seaborn 
+
+numpy 
+
+pomegranate 
+
+pygraphviz 
